@@ -97,6 +97,7 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
+
 .tag {
   background-color: #efefef;
   color: black;
@@ -233,9 +234,5 @@ a.social:hover {
 	  background-size: 100%
   }
   
-  .profile-image {
-	 size: auto; 
-  }
-
 }
 
